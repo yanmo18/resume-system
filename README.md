@@ -240,5 +240,7 @@ java -jar target/resume-system-0.0.1-SNAPSHOT.jar
 
 - 项目地址：https://gitee.com/yanqinglanyanmo/resume-system
 - 作者：yanqinglanyanmo
-
+## 页面展示
+<img src="imgs/图片1.png" alt="展示">
+<img src="imgs/图片2.png" alt="展示">
 如有任何问题或建议，欢迎提交 Issue 或 Pull Request。
